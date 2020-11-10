@@ -2,6 +2,7 @@ body {
   background-color: white;
   font-family: 'Raleway', sans-serif;
   background:  url("https://github.com/Sebastianglos/sebastianglos.github.io/blob/main/8727.jpg?raw=true") no-repeat fixed center;
+  background-size:cover;
 }
 
 .baner ul {
