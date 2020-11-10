@@ -1,12 +1,8 @@
 body {
   background-color: white;
   font-family: 'Raleway', sans-serif;
+  background:  url(https://github.com/Sebastianglos/sebastianglos.github.io/blob/main/8727.jpg?raw=true) no-repeat fixed center;
 }
-.baner{
-background-image:url(https://github.com/Sebastianglos/sebastianglos.github.io/blob/main/8727.jpg?raw=true);
-  background-repeat:no-repeat;
-    background-size:100% 100%;;
-  };
 
 .baner ul {
   position: center;
