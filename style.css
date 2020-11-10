@@ -3,3 +3,16 @@ background-image:url(https://image.freepik.com/free-vector/low-poly-design-with-
  background-size: cover;
   background-position: bottom center;
   };
+
+.body li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+
+.body  li.logo {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
