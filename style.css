@@ -5,6 +5,36 @@ body {
   background-size:cover;
 }
 
+.belka  {
+  border: 5px solid LightGrey;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+.belka a {
+  background: grey;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+
+
+. {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+}
 .baner ul {
   position: center;
   top: 300px;
