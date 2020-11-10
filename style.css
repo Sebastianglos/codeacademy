@@ -9,9 +9,9 @@ background-image:url(https://github.com/Sebastianglos/sebastianglos.github.io/bl
   };
 
 .baner ul {
-  margin: 0;
-  padding: 0;
-  text-align: center;
+  position: relative;
+  top: 50px;
+  margin: 0 auto;
 }
 
 .baner li {
