@@ -2,7 +2,15 @@
 background-image:url(https://image.freepik.com/free-vector/low-poly-design-with-teal-silver-colours_1048-8727.jpg);
  background-size: cover;
   background-position: bottom center;
+ eight: 1000px;
+  width: 100%;
   };
+
+.body ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
 
 .body li {
   font-weight: 100;
