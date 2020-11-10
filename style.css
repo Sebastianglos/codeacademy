@@ -5,12 +5,12 @@ body {
 .baner{
 background-image:url(https://github.com/Sebastianglos/sebastianglos.github.io/blob/main/8727.jpg?raw=true);
   background-repeat:no-repeat;
-    background-size:contain;
+    background-size:100% 100%;;
   };
 
 .baner ul {
-  position: relative;
-  top: 50px;
+  position: center;
+  top: 300px;
   margin: 0 auto;
 }
 
