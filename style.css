@@ -4,9 +4,8 @@ body {
 }
 .baner{
 background-image:url(https://github.com/Sebastianglos/sebastianglos.github.io/blob/main/8727.jpg?raw=true);
-  background-position:center;
- height: 100%;
-  width: 100%;
+  background-repeat:no-repeat;
+    background-size:contain;
   };
 
 .baner ul {
