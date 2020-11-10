@@ -6,32 +6,14 @@ body {
 }
 
 .belka  {
-  border: 5px solid LightGrey;
-  padding: 40px 0px;
-  position: relative;
-  text-align: center;
+  box-sizing: border-box;
   width: 100%;
-}
-.belka a {
-  background: grey;
-  border: 1px solid red;
-  border-radius: 3px;
-  color: white;
-  display: inline-block;
-  text-decoration: none;
-}
+  height: 50px;
+  padding: 30px;  
+  border: 3px solid Lightgrey;
+  align-content:stretch;
 
 
-
-
-. {
-  background: red;
-  border: 1px solid red;
-  border-radius: 3px;
-  color: white;
-  display: inline-block;
-  text-decoration: none;
-}
 
 
 }
