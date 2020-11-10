@@ -1,23 +1,27 @@
-.body{
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
+.baner{
 background-image:url(https://github.com/Sebastianglos/sebastianglos.github.io/blob/main/8727.jpg?raw=true);
   background-position:center;
  height: 100%;
   width: 100%;
   };
 
-.body ul {
+.baner ul {
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-.body li {
+.baner li {
   font-weight: 100;
   letter-spacing: 2px;
   padding: 20px;
 }
 
-.body  li.logo {
+.baner  li.logo {
   color: black;
   font-size: 18px;
   font-weight: 700;
